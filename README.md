@@ -94,6 +94,14 @@
 ###
 <hr>
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayayahyaa&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayayahyaa&show_icons=true&theme=tokyonight" alt="Aya's GitHub stats" />
+</p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayayahyaa&layout=compact&theme=tokyonight)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayayahyaa&theme=tokyonight)

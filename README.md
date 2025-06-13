@@ -94,14 +94,20 @@
 ###
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayayahyaa&show_icons=true&theme=tokyonight" alt="Aya's GitHub stats" />
 </p>
 
+<h3 align="center">📚 Top Languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayayahyaa&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayayahyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
+<h3 align="center">🔥 GitHub Streak</h3>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayayahyaa&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayayahyaa&theme=tokyonight" alt="GitHub Streak" />
+</p>

@@ -4,6 +4,8 @@
 
 <h3 align="center">🚀 Junior Front-End Developer | Angular | UI Designer</h3>
 
+<br>
+
 ###
 
 <h3 align="left">👨‍💻About Me</h3>

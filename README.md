@@ -99,16 +99,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayayahyaa&show_icons=true&theme=tokyonight" alt="Aya's GitHub stats" />
 </p>
-<hr>
 
-<h3 align="center">📚 Top Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayayahyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<hr>
 
-<h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayayahyaa&theme=tokyonight" alt="GitHub Streak" />

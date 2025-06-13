@@ -93,3 +93,7 @@
 
 ###
 <hr>
+
+### 📊 GitHub Stats
+
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayayahyaa&show_icons=true&theme=tokyonight)

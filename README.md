@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/a_y_a_y_a_h_y_a?igsh=MWhtODR1NWlhY2Zpbg%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:ayayahya232@gmail.com" target="_blank">
+  <a href="ayayahya232@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/aya-yahya-403a7a297/" target="_blank">

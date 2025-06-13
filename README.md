@@ -15,6 +15,7 @@
 <p align="left">I’m a Front-End Developer specializing in building modern, responsive web applications using Angular and Tailwind CSS. I turn UI/UX designs into interactive user-friendly interfaces, with a focus on performance and scalability.<br><br>I’ve built product pages, authentication systems, wishlists, and responsive layouts using tools like NGRX, Angular Libraries, PrimeNG, and Clean Architecture. I apply unit and E2E testing, animations, and Micro Frontends, following Scrum methodology for team collaboration.<br><br>Skilled in HTML, CSS, JavaScript, TypeScript, and Git, I’m passionate about clean, maintainable code and always eager to learn and grow.</p>
 
 ###
+<hr>
 
 <h3 align="left">📬 Let's Connect!!</h3>
 
@@ -36,6 +37,8 @@
 </div>
 
 ###
+<hr>
+
 
 <h3 align="left">🛠️ Skills Showcase</h3>
 
@@ -44,6 +47,7 @@
 <h4 align="left">Frontend Development & Styling & Frameworks</h4>
 
 ###
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />

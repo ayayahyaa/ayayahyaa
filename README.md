@@ -9,7 +9,6 @@
 ###
 
 <h3 align="left">👨‍💻About Me</h3>
-<div class=border-bottom ></div>
 
 ###
 
